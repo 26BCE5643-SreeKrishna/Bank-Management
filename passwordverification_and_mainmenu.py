@@ -1,5 +1,5 @@
 from bank_account_class import BankAccount
-from accounts import account 1
+from demo_account import account1
 
 valid = False
 
